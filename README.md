@@ -12,15 +12,15 @@ Website kasir pintar yang dapat mengelola pesanan dengan cepat dan tepat dengan 
 
 ## 🛠️ Teknologi
 - Backend: Laravel
-- Frontend: Blade / JS
+- Frontend: JS
 - Database: MySQL
 
 ---
 
 ## 👥 Tim
-- Dzaky Julian Putranto
-- Ica Apriyanti Rahayu
-- Rafli Ahmad Fauzi
-- Regina Nur Fadhilah
+Ica Apriyanti Rahayu 	2408415
+Dzaky Julian Putranto	2400790
+Rafli Ahmad Fauzi	2405815
+Regina Nur Fadhillah 	2406043
 
 ---
